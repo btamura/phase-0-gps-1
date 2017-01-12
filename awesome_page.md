@@ -1,4 +1,4 @@
-* **something bold**
+* **something bold and skinny**
 * *something italic*
 
 ```ruby
